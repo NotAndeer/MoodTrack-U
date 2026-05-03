@@ -1,0 +1,900 @@
+Diseña una aplicación web responsive llamada MoodTrack U, enfocada en el bienestar mental, seguimiento emocional y gestión de hábitos de estudiantes universitarios. La interfaz debe transmitir calma, claridad, confianza y acompañamiento, evitando el aspecto clínico o demasiado corporativo. El diseño debe sentirse moderno, accesible, limpio y amigable, con una experiencia intuitiva para usuarios que pueden sentirse saturados, cansados o con poco tiempo.
+
+La propuesta visual debe estar centrada en estudiantes que necesitan registrar su estado emocional, organizar hábitos saludables, recibir recordatorios útiles y visualizar su progreso sin sentirse abrumados. La interfaz debe ser minimalista pero cálida, con espacios amplios, componentes redondeados, jerarquía visual clara y navegación sencilla. El diseño debe priorizar la legibilidad, la reducción de carga cognitiva y la facilidad de uso.
+
+La identidad visual debe usar una paleta de colores asociada a calma, concentración, bienestar y energía equilibrada. Usa como color primario un azul suave tipo #4F8EF7, como secundario un verde menta tipo #7BDCB5, como color de apoyo un lavanda suave tipo #B8A1FF, fondos claros tipo #F7FAFC y #FFFFFF, texto principal en gris oscuro tipo #1F2937, texto secundario en gris medio tipo #6B7280, y alertas o estados importantes con acentos suaves: amarillo cálido #F6C85F para advertencias leves y coral suave #F28B82 para estrés o sobrecarga. Evita colores demasiado agresivos o saturados. El resultado visual debe sentirse sereno y optimista.
+
+La tipografía debe ser moderna y altamente legible. Usa un estilo similar a Inter, Poppins o Manrope. Los títulos deben ser claros, de peso semibold o bold, mientras que el texto general debe mantener una lectura ligera. El sistema debe verse actual, tecnológico y humano al mismo tiempo. Usa íconos lineales suaves, consistentes y minimalistas.
+
+El estilo general debe incluir tarjetas con bordes redondeados, sombras suaves, botones grandes y claros, formularios simples, gráficas limpias, indicadores visuales de progreso y elementos ilustrativos sutiles relacionados con emociones, hábitos, organización, descanso, estudio y bienestar. Puede incluir pequeños detalles visuales como ondas suaves, círculos difuminados o fondos con degradados ligeros entre azul claro y lavanda. La app debe transmitir acompañamiento emocional y orden personal.
+
+Diseña las siguientes pantallas principales:
+
+Pantalla de inicio / landing page
+Debe presentar el producto de forma atractiva, con un mensaje principal orientado a estudiantes universitarios. Incluir hero section con llamado a la acción, beneficios clave, secciones breves sobre seguimiento emocional, hábitos saludables y visualización del progreso. Incluir botones como “Comenzar” e “Iniciar sesión”. Mostrar una vista previa del dashboard.
+
+Inicio de sesión / registro
+Pantalla limpia y simple, con campos de correo, contraseña y botón principal. Debe ofrecer acceso rápido y sin fricción. Puede incluir ilustración o mensaje de apoyo tipo “Organiza tu bienestar, un paso a la vez”.
+
+Dashboard principal
+Debe mostrar un resumen del día con saludo personalizado, estado emocional del día, hábitos pendientes, progreso semanal, recordatorios y una vista rápida del bienestar general. Debe incluir tarjetas visuales con indicadores como sueño, pausas activas, hidratación, estudio y estado emocional.
+
+Registro emocional
+Una pantalla donde el usuario pueda seleccionar cómo se siente mediante emojis, tarjetas o escalas visuales. Debe permitir elegir emociones como tranquilo, motivado, cansado, estresado o ansioso. Incluir campo opcional para una nota breve. El flujo debe ser muy rápido, en menos de 30 segundos.
+
+Seguimiento de hábitos
+Pantalla para marcar hábitos diarios o semanales como dormir bien, tomar agua, hacer pausas, estudiar con enfoque o realizar actividad física. Debe incluir progreso visual, checkboxes modernos, barras de avance y visualización semanal.
+
+Análisis y progreso
+Pantalla con estadísticas amigables: tendencias emocionales, hábitos cumplidos, días de mayor estrés, progreso semanal y recomendaciones visuales. Incluir gráficas simples, limpias y comprensibles. Nada demasiado técnico. Mostrar insights como “Tus días con más pausas activas coinciden con mejores estados emocionales”.
+
+Perfil / configuración
+Pantalla con información básica del usuario, preferencias de recordatorios, metas personales, frecuencia de seguimiento y configuración de notificaciones. Debe sentirse ordenada y tranquila.
+
+Pantalla de alertas o recomendaciones
+Una vista donde el sistema muestre mensajes breves y útiles si detecta señales de saturación, por ejemplo: “Has registrado cansancio varios días seguidos. ¿Quieres activar una rutina de pausas?” Debe verse empática, nunca alarmista.
+
+La navegación debe ser clara. Si el diseño es web app, usa una barra lateral izquierda en escritorio y navegación inferior o menú compacto en móvil. La estructura debe sentirse ordenada, simple y sin exceso de opciones. Prioriza una experiencia de usuario suave y accesible.
+
+El diseño debe considerar accesibilidad básica: buen contraste, botones visibles, textos legibles, espaciado generoso y uso claro de íconos junto con etiquetas de texto. Debe verse como una aplicación real lista para presentar en un proyecto universitario de software.
+
+La interfaz debe representar una solución digital centrada en el usuario, con enfoque en bienestar mental, hábitos saludables y experiencia intuitiva para estudiantes con alta carga académica.
+
+Estilo visual resumido para Figma
+“Modern wellness dashboard for university students, soft blue, mint green, lavender accents, rounded cards, clean typography, minimal and calming interface, emotionally supportive UX, habit tracker, mood tracker, simple analytics, accessible, elegant, friendly, professional academic startup style.”
+
+Guía rápida de colores
+Primario: #4F8EF7
+Secundario: #7BDCB5
+Apoyo: #B8A1FF
+Fondo general: #F7FAFC
+Blanco: #FFFFFF
+Texto principal: #1F2937
+Texto secundario: #6B7280
+Advertencia leve: #F6C85F
+Estrés / alerta suave: #F28B82
+
+Cómo debe verse
+Debe verse como una mezcla entre una app de productividad y una app de bienestar. No debe parecer hospitalaria ni infantil. Más bien como una plataforma universitaria moderna, elegante, confiable y tranquila. Algo entre Notion, Headspace y una dashboard SaaS académica, pero con identidad propia.
+
+Componentes que debe incluir
+Botones primarios y secundarios, tarjetas KPI, selectores de emoción con íconos, checklist de hábitos, barra de progreso, gráfica semanal, menú lateral, topbar con saludo, formularios simples, modal de recomendaciones y sistema de notificaciones suaves.
+
+MoodTrack U
+
+Concepto general
+
+MoodTrack U es una aplicación web responsive orientada a estudiantes universitarios que necesitan organizar sus hábitos, registrar su estado emocional y visualizar señales tempranas de sobrecarga académica. La experiencia debe transmitir calma, claridad, acompañamiento y control. No debe sentirse clínica, fría ni sobrecargada. Debe verse moderna, amigable y funcional.
+
+La estética general debe combinar bienestar digital + productividad académica. El resultado visual debe verse como una plataforma real, presentable en un proyecto universitario de software, con apariencia profesional y centrada en la experiencia del usuario.
+
+Dirección visual
+
+El diseño debe transmitir:
+calma, orden, enfoque, bienestar, tecnología amigable, acompañamiento emocional, simplicidad y claridad.
+
+La interfaz debe verse:
+limpia, luminosa, con bastante aire, tarjetas redondeadas, sombras suaves, íconos lineales, gráficos simples, navegación intuitiva y colores suaves.
+
+No debe verse:
+infantil, recargada, oscura, demasiado médica, demasiado corporativa o con exceso de elementos visuales.
+
+Sistema de color
+
+Usa esta paleta principal:
+
+Color primario: #4F8EF7
+Azul suave, tecnológico, confiable.
+
+Color secundario: #7BDCB5
+Verde menta, frescura, equilibrio, bienestar.
+
+Color de apoyo: #B8A1FF
+Lavanda suave, descanso, estabilidad emocional.
+
+Fondo principal: #F7FAFC
+Gris muy claro casi blanco.
+
+Superficies: #FFFFFF
+
+Texto principal: #1F2937
+Gris oscuro.
+
+Texto secundario: #6B7280
+
+Bordes suaves: #E5E7EB
+
+Advertencia leve: #F6C85F
+
+Alerta emocional suave: #F28B82
+
+Éxito / cumplimiento: #34D399
+
+Gradientes opcionales:
+
+azul a lavanda muy suave
+
+menta a azul claro muy tenue
+
+Tipografía
+
+Usar estilo similar a:
+Inter, Poppins o Manrope
+
+Jerarquía recomendada:
+
+H1: 32–40 px, semibold o bold
+
+H2: 24–28 px, semibold
+
+H3: 18–22 px, medium/semibold
+
+Texto base: 14–16 px
+
+Labels y captions: 12–13 px
+
+La fuente debe ser muy legible. Nada demasiado decorativo.
+
+Componentes base
+
+Diseñar estos componentes desde el inicio para mantener consistencia:
+
+Botón primario
+
+Botón secundario
+
+Botón fantasma
+
+Input de texto
+
+Input con ícono
+
+Tarjeta resumen
+
+Tarjeta de hábito
+
+Selector de emociones
+
+Barra de progreso
+
+Gráfica simple
+
+Menú lateral
+
+Top bar
+
+Chips o tags de estado
+
+Tarjeta de recomendación
+
+Modal
+
+Toggle de notificaciones
+
+Avatar simple
+
+Estilo de componentes
+
+Botones:
+
+bordes redondeados de 12 px
+
+altura 44–48 px
+
+botón principal azul
+
+botón secundario con fondo blanco y borde suave
+
+hover sutil
+
+Tarjetas:
+
+fondo blanco
+
+radio 16–20 px
+
+sombra suave
+
+padding amplio
+
+diseño limpio
+
+Campos:
+
+bordes redondeados
+
+fondo blanco
+
+íconos ligeros
+
+estados claros de focus
+
+Íconos:
+
+lineales
+
+suaves
+
+modernos
+
+relacionados con emociones, hábitos, descanso, estudio, tiempo y progreso
+
+Estructura general de navegación
+
+Versión desktop:
+
+barra lateral izquierda
+
+top bar superior
+
+contenido principal en tarjetas
+
+Versión móvil:
+
+barra inferior o menú hamburguesa
+
+tarjetas apiladas
+
+accesos directos grandes
+
+Flujo principal del usuario
+
+Entra a la landing
+
+Se registra o inicia sesión
+
+Completa breve onboarding
+
+Accede al dashboard
+
+Registra su estado emocional
+
+Marca hábitos del día
+
+Visualiza su progreso
+
+Recibe recomendaciones y alertas suaves
+
+Ajusta su perfil y notificaciones
+
+PROMPT GENERAL COMPLETO PARA FIGMA AI
+
+Diseña una aplicación web responsive llamada MoodTrack U enfocada en bienestar mental, hábitos saludables y seguimiento emocional para estudiantes universitarios. La interfaz debe transmitir calma, claridad, acompañamiento y simplicidad. Debe tener una apariencia moderna, limpia, suave y profesional, con una estética híbrida entre productividad académica y bienestar digital.
+
+Usa una paleta con azul suave #4F8EF7 como color primario, verde menta #7BDCB5 como secundario, lavanda suave #B8A1FF como apoyo, fondo general #F7FAFC, superficies blancas #FFFFFF, texto principal #1F2937 y texto secundario #6B7280. Para advertencias leves usa #F6C85F y para alertas emocionales suaves #F28B82.
+
+La tipografía debe ser tipo Inter, Poppins o Manrope. Usa títulos claros, tarjetas redondeadas, sombras sutiles, íconos lineales y una composición minimalista con aire visual. La aplicación debe evitar el aspecto clínico, oscuro o sobrecargado. Debe verse como una herramienta amigable para estudiantes que tienen alta carga académica y poco tiempo.
+
+Crea las siguientes pantallas: landing page, login, registro, onboarding, dashboard principal, registro emocional, seguimiento de hábitos, análisis y progreso, recomendaciones, perfil/configuración. Debe incluir navegación lateral en desktop, componentes coherentes, formularios limpios, gráficas simples, recordatorios suaves y mensajes empáticos. La experiencia debe sentirse intuitiva, humana, clara y tecnológicamente sólida.
+
+PANTALLA POR PANTALLA
+1. Landing page
+Objetivo
+
+Presentar el producto y convencer al usuario de comenzar.
+
+Estructura
+
+Header superior:
+
+logo MoodTrack U
+
+menú: Inicio, Beneficios, Cómo funciona, Contacto
+
+botones: Iniciar sesión, Comenzar
+
+Hero principal:
+
+título fuerte: “Cuida tu bienestar mientras organizas tu vida universitaria”
+
+subtítulo corto explicando valor
+
+botón primario: “Comenzar ahora”
+
+botón secundario: “Ver demo”
+
+mockup visual del dashboard a la derecha
+
+Sección de beneficios:
+
+Registrar emociones
+
+Crear hábitos saludables
+
+Detectar señales de sobrecarga
+
+Ver progreso semanal
+
+Sección “Cómo funciona” en 3 pasos:
+
+Registra cómo te sientes
+
+Da seguimiento a tus hábitos
+
+Recibe recomendaciones y mejora tu bienestar
+
+Sección de testimonios simulados:
+
+tarjetas con frases cortas de estudiantes
+
+Footer:
+
+logo
+
+links
+
+contacto
+
+texto institucional sencillo
+
+Estilo
+
+Muy limpio, hero luminoso, fondo claro con degradado suave azul-lavanda, mockup en tarjeta blanca, ilustraciones suaves.
+
+2. Login
+Objetivo
+
+Permitir acceso rápido y sin fricción.
+
+Elementos
+
+Logo arriba
+
+Título: “Bienvenido de nuevo”
+
+Subtexto: “Inicia sesión para continuar con tu seguimiento”
+
+Campo correo
+
+Campo contraseña
+
+Checkbox recordar sesión
+
+Botón primario “Iniciar sesión”
+
+Link “¿Olvidaste tu contraseña?”
+
+Link “Crear cuenta”
+
+Lateral opcional con ilustración o bloque de valor
+
+Estilo
+
+Pantalla limpia, centrada, minimalista, con tarjeta blanca sobre fondo claro.
+
+3. Registro
+Objetivo
+
+Crear cuenta simple.
+
+Elementos
+
+Título: “Crea tu cuenta”
+
+Campos: nombre, correo, contraseña, confirmar contraseña
+
+Selector opcional: programa académico
+
+Checkbox de términos
+
+Botón primario “Registrarme”
+
+Link “Ya tengo cuenta”
+
+Estilo
+
+Muy parecido al login, mantener consistencia.
+
+4. Onboarding
+Objetivo
+
+Conocer al usuario sin hacerlo largo.
+
+Flujo
+
+Pantalla 1:
+
+saludo
+
+pregunta breve: “¿Qué te gustaría mejorar?”
+
+opciones tipo chips: organizar tiempo, dormir mejor, reducir estrés, crear hábitos, monitorear emociones
+
+Pantalla 2:
+
+frecuencia de seguimiento deseada
+
+opciones: diario, 3 veces por semana, semanal
+
+Pantalla 3:
+
+activar notificaciones útiles
+
+toggle sí/no
+
+texto empático: “Solo las necesarias”
+
+Pantalla 4:
+
+mensaje final
+
+botón “Ir a mi panel”
+
+Estilo
+
+Cards grandes, progreso arriba tipo steps 1/4, ilustraciones suaves.
+
+5. Dashboard principal
+Objetivo
+
+Ser el centro de control del usuario.
+
+Layout
+
+Sidebar izquierda:
+
+Dashboard
+
+Estado emocional
+
+Hábitos
+
+Progreso
+
+Recomendaciones
+
+Perfil
+
+Top bar:
+
+saludo: “Hola, Laura”
+
+fecha
+
+avatar
+
+ícono de notificaciones
+
+Contenido principal:
+
+tarjeta resumen superior con estado general
+
+“Tu bienestar hoy”
+
+indicador general tipo calmado / atención / saturación leve
+
+módulo de estado emocional actual
+
+pregunta: “¿Cómo te sientes hoy?”
+
+5 emociones visuales rápidas
+
+tarjeta de hábitos del día
+
+sueño
+
+hidratación
+
+pausa activa
+
+estudio enfocado
+
+ejercicio breve
+
+progreso semanal
+
+mini gráfico de barras o líneas
+
+recordatorios inteligentes
+
+2 o 3 mensajes útiles
+
+acceso rápido
+
+registrar emoción
+
+marcar hábito
+
+ver análisis
+
+Estilo
+
+Tarjetas blancas, layout en grid, visual agradable, jerarquía muy clara.
+
+6. Pantalla de registro emocional
+Objetivo
+
+Permitir registro rápido en menos de 30 segundos.
+
+Elementos
+
+Título: “Registro emocional”
+
+Subtexto: “Selecciona cómo te sientes hoy”
+
+Opciones visuales con iconos/emoji minimal:
+
+tranquilo
+
+motivado
+
+cansado
+
+estresado
+
+ansioso
+
+Intensidad emocional:
+
+slider o escala del 1 al 5
+
+Campo opcional:
+
+“¿Quieres agregar una nota?”
+
+Botón guardar
+
+Debajo:
+historial reciente de emociones
+
+Estilo
+
+Mucho espacio visual, tarjetas suaves, colores asociados a emoción pero no chillones.
+
+7. Pantalla de hábitos
+Objetivo
+
+Gestionar hábitos diarios y semanales.
+
+Elementos
+
+Título: “Mis hábitos”
+
+Tabs: Diario / Semanal
+
+Lista de hábitos en tarjetas:
+
+Dormí al menos 7 horas
+
+Tomé agua
+
+Hice pausa activa
+
+Estudié sin distracciones
+
+Me desconecté antes de dormir
+
+Cada hábito debe mostrar:
+
+nombre
+
+icono
+
+porcentaje de cumplimiento
+
+botón de marcar completado
+
+racha actual
+
+Parte inferior:
+
+resumen semanal
+
+barra de progreso por hábito
+
+Estilo
+
+Tarjetas modulares, check visual agradable, verde menta para hábitos cumplidos.
+
+8. Pantalla de análisis y progreso
+Objetivo
+
+Mostrar evolución sin hacerlo complejo.
+
+Elementos
+
+título: “Tu progreso”
+
+resumen superior con 3 KPIs:
+
+hábitos cumplidos esta semana
+
+promedio emocional
+
+días con mayor equilibrio
+
+gráfico 1:
+evolución emocional semanal
+
+gráfico 2:
+cumplimiento de hábitos
+
+insights automáticos:
+
+“Los días con pausas activas coinciden con mejores estados emocionales”
+
+“El jueves registraste más cansancio que el promedio”
+
+bloque de recomendación:
+
+sugerencia concreta basada en datos
+
+Estilo
+
+Visual de dashboard SaaS, pero suave y amigable.
+
+9. Pantalla de recomendaciones
+Objetivo
+
+Acompañar al usuario con mensajes útiles.
+
+Elementos
+
+título: “Recomendaciones para ti”
+
+tarjetas con mensajes empáticos:
+
+“Has registrado cansancio varios días seguidos. Intenta activar una pausa breve a mitad de jornada.”
+
+“Tu hábito de hidratación ha mejorado. Mantén la constancia.”
+
+“Quizás podrías reducir notificaciones durante tus sesiones de estudio.”
+
+bloque de acciones rápidas:
+
+activar rutina
+
+crear recordatorio
+
+ajustar meta
+
+Estilo
+
+Muy empático, nada alarmista. Tarjetas suaves con íconos.
+
+10. Pantalla de perfil y configuración
+Objetivo
+
+Administrar cuenta y preferencias.
+
+Elementos
+
+avatar
+
+nombre
+
+correo
+
+programa académico
+
+metas activas
+
+frecuencia de recordatorios
+
+configuración de notificaciones
+
+modo claro
+
+privacidad
+
+cerrar sesión
+
+Estilo
+
+Ordenado, simple, con secciones agrupadas.
+
+WIREFRAMES DE BAJA FIDELIDAD
+
+Para la entrega académica, en baja fidelidad puedes hacer estas 5 pantallas:
+
+Login
+
+Dashboard
+
+Registro emocional
+
+Hábitos
+
+Progreso
+
+En baja fidelidad solo muestras:
+
+estructura
+
+navegación
+
+bloques
+
+jerarquía
+
+Sin colores finales ni diseño detallado.
+
+ALTA FIDELIDAD
+
+En alta fidelidad conviertes esas 5 y agregas:
+6. Landing
+7. Onboarding
+8. Recomendaciones
+9. Perfil
+
+MICROCOPY SUGERIDO
+
+Estos textos ayudan a que la interfaz se vea real.
+
+Dashboard
+
+“Hola, Laura. Vamos paso a paso.”
+
+“Tu bienestar también hace parte de tu rendimiento.”
+
+“Hoy puedes enfocarte en pequeñas acciones.”
+
+Registro emocional
+
+“¿Cómo te sientes hoy?”
+
+“Registrar tus emociones toma menos de 30 segundos.”
+
+“No necesitas explicarlo todo, empieza por lo básico.”
+
+Hábitos
+
+“Pequeñas acciones generan grandes cambios.”
+
+“Tu progreso se construye día a día.”
+
+Recomendaciones
+
+“Has tenido varios días intensos. Considera una pausa breve.”
+
+“Vas bien. Mantén la constancia.”
+
+ESTILO DE ÍCONOS
+
+Usa íconos relacionados con:
+
+emociones
+
+calendario
+
+reloj
+
+agua
+
+luna / sueño
+
+libro / estudio
+
+gráfico
+
+campana
+
+usuario
+
+configuración
+
+Preferiblemente outline, redondeados y modernos.
+
+GRID Y ESPACIADO
+
+Desktop:
+
+contenedor con márgenes amplios
+
+grid de 12 columnas
+
+sidebar fija
+
+separación de 24 px o 32 px
+
+Móvil:
+
+espaciado de 16 px
+
+tarjetas completas
+
+botones grandes
+
+ANIMACIONES SUGERIDAS
+
+Muy sutiles:
+
+hover suave en botones
+
+transición ligera en cards
+
+progreso animado
+
+feedback visual al marcar hábitos
+
+microinteracción al guardar emoción
+
+Nada demasiado exagerado.
+
+CÓMO DEBE VERSE EL PRODUCTO FINAL
+
+Debe parecer una mezcla entre:
+
+una app de bienestar como Headspace
+
+una herramienta productiva como Notion
+
+un dashboard moderno tipo SaaS
+
+una plataforma estudiantil amigable
+
+Pero con identidad propia, más enfocada en estudiantes que manejan carga académica y estrés.
+
+PROMPT EXTRA CORTO PARA CADA FRAME EN FIGMA
+
+Puedes usar también este resumen por pantalla.
+
+Landing
+
+Diseña una landing page moderna y calmada para MoodTrack U, app web de bienestar estudiantil. Usa azul suave, menta y lavanda. Incluye hero con CTA, mockup del dashboard, beneficios, pasos de uso y testimonios.
+
+Login
+
+Diseña una pantalla de login minimalista para MoodTrack U con tarjeta central, fondo claro, logo, correo, contraseña y botón primario azul.
+
+Registro
+
+Diseña una pantalla de registro limpia y amigable para estudiantes, con formulario simple y mensaje de bienvenida.
+
+Onboarding
+
+Diseña un onboarding en 4 pasos para conocer hábitos, metas y preferencias de seguimiento de estudiantes universitarios.
+
+Dashboard
+
+Diseña un dashboard web moderno para bienestar estudiantil con saludo, estado emocional, hábitos del día, progreso semanal y recomendaciones.
+
+Registro emocional
+
+Diseña una pantalla rápida de registro emocional con selección visual de emociones, intensidad y nota opcional.
+
+Hábitos
+
+Diseña una pantalla de seguimiento de hábitos con tarjetas, check de cumplimiento, rachas y resumen semanal.
+
+Progreso
+
+Diseña una pantalla de análisis con gráficos limpios, KPIs y recomendaciones amigables.
+
+Recomendaciones
+
+Diseña una pantalla de recomendaciones empáticas con alertas suaves y acciones rápidas.
+
+Perfil
+
+Diseña una pantalla de perfil y configuración limpia con preferencias, metas y notificaciones.
+
+RECOMENDACIÓN FINAL PARA TU ENTREGA
+
+En Figma crea estas páginas:
+
+Sistema de diseño
+
+Baja fidelidad
+
+Alta fidelidad
+
+Flujo navegable
+
+Pruebas de usabilidad
+
+Y dentro del sistema de diseño mete:
+
+colores
+
+tipografía
+
+botones
+
+inputs
+
+cards
+
+iconos
+
+spacing

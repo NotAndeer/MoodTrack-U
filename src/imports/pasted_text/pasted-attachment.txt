@@ -1,0 +1,61 @@
+Diseña una aplicación web responsive llamada MoodTrack U, enfocada en el bienestar mental, seguimiento emocional y gestión de hábitos de estudiantes universitarios. La interfaz debe transmitir calma, claridad, confianza y acompañamiento, evitando el aspecto clínico o demasiado corporativo. El diseño debe sentirse moderno, accesible, limpio y amigable, con una experiencia intuitiva para usuarios que pueden sentirse saturados, cansados o con poco tiempo.
+
+La propuesta visual debe estar centrada en estudiantes que necesitan registrar su estado emocional, organizar hábitos saludables, recibir recordatorios útiles y visualizar su progreso sin sentirse abrumados. La interfaz debe ser minimalista pero cálida, con espacios amplios, componentes redondeados, jerarquía visual clara y navegación sencilla. El diseño debe priorizar la legibilidad, la reducción de carga cognitiva y la facilidad de uso.
+
+La identidad visual debe usar una paleta de colores asociada a calma, concentración, bienestar y energía equilibrada. Usa como color primario un azul suave tipo #4F8EF7, como secundario un verde menta tipo #7BDCB5, como color de apoyo un lavanda suave tipo #B8A1FF, fondos claros tipo #F7FAFC y #FFFFFF, texto principal en gris oscuro tipo #1F2937, texto secundario en gris medio tipo #6B7280, y alertas o estados importantes con acentos suaves: amarillo cálido #F6C85F para advertencias leves y coral suave #F28B82 para estrés o sobrecarga. Evita colores demasiado agresivos o saturados. El resultado visual debe sentirse sereno y optimista.
+
+La tipografía debe ser moderna y altamente legible. Usa un estilo similar a Inter, Poppins o Manrope. Los títulos deben ser claros, de peso semibold o bold, mientras que el texto general debe mantener una lectura ligera. El sistema debe verse actual, tecnológico y humano al mismo tiempo. Usa íconos lineales suaves, consistentes y minimalistas.
+
+El estilo general debe incluir tarjetas con bordes redondeados, sombras suaves, botones grandes y claros, formularios simples, gráficas limpias, indicadores visuales de progreso y elementos ilustrativos sutiles relacionados con emociones, hábitos, organización, descanso, estudio y bienestar. Puede incluir pequeños detalles visuales como ondas suaves, círculos difuminados o fondos con degradados ligeros entre azul claro y lavanda. La app debe transmitir acompañamiento emocional y orden personal.
+
+Diseña las siguientes pantallas principales:
+
+Pantalla de inicio / landing page
+Debe presentar el producto de forma atractiva, con un mensaje principal orientado a estudiantes universitarios. Incluir hero section con llamado a la acción, beneficios clave, secciones breves sobre seguimiento emocional, hábitos saludables y visualización del progreso. Incluir botones como “Comenzar” e “Iniciar sesión”. Mostrar una vista previa del dashboard.
+
+Inicio de sesión / registro
+Pantalla limpia y simple, con campos de correo, contraseña y botón principal. Debe ofrecer acceso rápido y sin fricción. Puede incluir ilustración o mensaje de apoyo tipo “Organiza tu bienestar, un paso a la vez”.
+
+Dashboard principal
+Debe mostrar un resumen del día con saludo personalizado, estado emocional del día, hábitos pendientes, progreso semanal, recordatorios y una vista rápida del bienestar general. Debe incluir tarjetas visuales con indicadores como sueño, pausas activas, hidratación, estudio y estado emocional.
+
+Registro emocional
+Una pantalla donde el usuario pueda seleccionar cómo se siente mediante emojis, tarjetas o escalas visuales. Debe permitir elegir emociones como tranquilo, motivado, cansado, estresado o ansioso. Incluir campo opcional para una nota breve. El flujo debe ser muy rápido, en menos de 30 segundos.
+
+Seguimiento de hábitos
+Pantalla para marcar hábitos diarios o semanales como dormir bien, tomar agua, hacer pausas, estudiar con enfoque o realizar actividad física. Debe incluir progreso visual, checkboxes modernos, barras de avance y visualización semanal.
+
+Análisis y progreso
+Pantalla con estadísticas amigables: tendencias emocionales, hábitos cumplidos, días de mayor estrés, progreso semanal y recomendaciones visuales. Incluir gráficas simples, limpias y comprensibles. Nada demasiado técnico. Mostrar insights como “Tus días con más pausas activas coinciden con mejores estados emocionales”.
+
+Perfil / configuración
+Pantalla con información básica del usuario, preferencias de recordatorios, metas personales, frecuencia de seguimiento y configuración de notificaciones. Debe sentirse ordenada y tranquila.
+
+Pantalla de alertas o recomendaciones
+Una vista donde el sistema muestre mensajes breves y útiles si detecta señales de saturación, por ejemplo: “Has registrado cansancio varios días seguidos. ¿Quieres activar una rutina de pausas?” Debe verse empática, nunca alarmista.
+
+La navegación debe ser clara. Si el diseño es web app, usa una barra lateral izquierda en escritorio y navegación inferior o menú compacto en móvil. La estructura debe sentirse ordenada, simple y sin exceso de opciones. Prioriza una experiencia de usuario suave y accesible.
+
+El diseño debe considerar accesibilidad básica: buen contraste, botones visibles, textos legibles, espaciado generoso y uso claro de íconos junto con etiquetas de texto. Debe verse como una aplicación real lista para presentar en un proyecto universitario de software.
+
+La interfaz debe representar una solución digital centrada en el usuario, con enfoque en bienestar mental, hábitos saludables y experiencia intuitiva para estudiantes con alta carga académica.
+
+Estilo visual resumido para Figma
+“Modern wellness dashboard for university students, soft blue, mint green, lavender accents, rounded cards, clean typography, minimal and calming interface, emotionally supportive UX, habit tracker, mood tracker, simple analytics, accessible, elegant, friendly, professional academic startup style.”
+
+Guía rápida de colores
+Primario: #4F8EF7
+Secundario: #7BDCB5
+Apoyo: #B8A1FF
+Fondo general: #F7FAFC
+Blanco: #FFFFFF
+Texto principal: #1F2937
+Texto secundario: #6B7280
+Advertencia leve: #F6C85F
+Estrés / alerta suave: #F28B82
+
+Cómo debe verse
+Debe verse como una mezcla entre una app de productividad y una app de bienestar. No debe parecer hospitalaria ni infantil. Más bien como una plataforma universitaria moderna, elegante, confiable y tranquila. Algo entre Notion, Headspace y una dashboard SaaS académica, pero con identidad propia.
+
+Componentes que debe incluir
+Botones primarios y secundarios, tarjetas KPI, selectores de emoción con íconos, checklist de hábitos, barra de progreso, gráfica semanal, menú lateral, topbar con saludo, formularios simples, modal de recomendaciones y sistema de notificaciones suaves.
