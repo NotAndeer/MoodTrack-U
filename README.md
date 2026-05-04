@@ -33,7 +33,7 @@ Instalación
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/moodtrack-u.git
+[git clone https://github.com/tu-usuario/moodtrack-u.git](https://github.com/NotAndeer/MoodTrack-U.git)
 
 Entrar al proyecto:
 
